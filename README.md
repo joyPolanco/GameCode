@@ -1,4 +1,3 @@
-### README.md — GameSoft (Análisis del Mercado de Videojuegos 2024)
 
 ## Descripción
 
